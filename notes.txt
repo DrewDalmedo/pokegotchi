@@ -1,0 +1,27 @@
+Misc Functions:
+    - Pause
+
+Meters / Stats:
+    - Hunger meter  (4 hearts total)
+        Bread (meal)
+    - Happy meter   (4 hearts total)
+        Candy (snack)
+    - Discipline meter
+        Scold when tamagotchi misbehaves
+    - Age
+    - Weight
+
+Life cycle:
+    - Baby
+    - Child
+    - Teen
+    - Adult
+
+Pet Interactivity Functions:
+    - Feed
+    - Lights
+    - Play
+    - Medicine
+    - Clean
+    - Stats
+    - Scold
